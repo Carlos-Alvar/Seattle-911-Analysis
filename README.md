@@ -1,4 +1,4 @@
-# Carlos Alvarez CSE 163 AI Final Project
+# City of Seattle Number of 911 Calls Analysis
 Before running any files, ensure to download the two necessary csv files.
 The data for 911 calls can be found [here](https://data.seattle.gov/Public-Safety/Total-number-of-Fire-911-calls-per-day/umiy-nixb).
 Simply go to export, and then download the CSV.
