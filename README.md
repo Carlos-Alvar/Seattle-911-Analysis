@@ -8,5 +8,5 @@ To get the CSV, click on the Positives table of the Excel, then Save As a CSV.
 Also ensure that the correct file paths for these CSV's are put into 'main.py.'
 'data_load.py' must be in the same location as 'main.py' so that main.py can correctly call data_load functions
 Depending on your environment, be sure to install the necessary packages seen at the top of 'main.py.'
-Once that is complete, run 'main.py' to generate results.
+Once that is complete, run 'main.py' to generate results.  
 More information about this project can be found [here](https://carlos-alvarez01.web.app/Coding/Seattle%20911%20Call%20Analysis/index.html).
